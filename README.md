@@ -97,5 +97,8 @@ Edit
 ├── requirements.txt       # List of Python packages
 ├── fraud_detection.py     # Main script for model training and prediction
 └── README.md              # Project description
+
+
 🤝 Contributions
+
 Feel free to fork this repo and suggest improvements! Pull requests are welcome.
