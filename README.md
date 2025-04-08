@@ -1,4 +1,4 @@
-# Credit-Card-fraud-Detection-Model-
+# FortiFi: A Linear Regression-Powered Credit Card Fraud Detection Engine-
 
 This project focuses on detecting fraudulent credit card transactions using various machine learning techniques. With the increasing number of online transactions, it's critical to identify and prevent fraud in real-time. This model is trained on a highly imbalanced dataset, where fraudulent transactions are significantly fewer than legitimate ones.
 
